@@ -1,2 +1,2 @@
 # atx-common-models
-common models between all atx services
+Common models between all atx services
